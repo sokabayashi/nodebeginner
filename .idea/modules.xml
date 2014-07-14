@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/nodeplay.iml" filepath="$PROJECT_DIR$/.idea/nodeplay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nodebeginner.iml" filepath="$PROJECT_DIR$/.idea/nodebeginner.iml" />
     </modules>
   </component>
 </project>
